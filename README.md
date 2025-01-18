@@ -1,6 +1,7 @@
 # meals_app
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/4c383477-b9e6-4c17-818d-809fcbfd0fb6)
+
 
 
 ## Getting Started
